@@ -38,7 +38,7 @@ Relation between Casualties by Area/ Location & by Day/Night
 ---
 
 ## 🔹 Dashboard Preview  
-
+https://github.com/Poorna0114/Road-Accident-Excel-Dashboard/blob/main/Screenshot%202026-01-31%20144544.png
 
 ---
 
